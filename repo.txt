@@ -1,0 +1,7 @@
+Your testing URL can be found here:
+https://fancypos-sp19-p05-g01-lopsided-desk.azurewebsites.net
+
+PLEASE NOTE - we don't recommend sharing this with other teams, as they will have access to change data on it if your endpoints are not secured.
+
+Please test the site and report issues you want to fix to 383@envoc.com
+You should point your mobile app at that endpoint and see if there are issues in the integration

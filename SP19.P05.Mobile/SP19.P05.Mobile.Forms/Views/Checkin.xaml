@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SP19.P05.Mobile.Forms.Views.Checkin">
+    <StackLayout Padding="60, 60, 60, 0" BackgroundColor="LightGray">
+        
+            <Button Text="Reserve"  Clicked="Reserve_Clicked"/>
+        <!--<Button Text="Check-In With QR Code"  Clicked="Button_Clicked"/>-->
+        <Button Text="Check-In "  Clicked="Button_Click"/>
+
+    </StackLayout>
+</ContentPage>
